@@ -1,5 +1,14 @@
-### Hi there 👋
+# Anastasiia Laukhina 👋
 
+## I'm a Data Analyst
+
+### BI-Analyst
+### Product Analyst
+
+### My steck
+- SQL
+- Python
+- Tableau
 <!--
 **AnastasiaLaukhina/AnastasiaLaukhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
